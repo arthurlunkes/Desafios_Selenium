@@ -1,8 +1,11 @@
 # Desafios Selenium
 
-## Acadêmico: Arthur Lunkes
+<div align="center"><h2>Acadêmico: Arthur Lunkes</h2></div>
 
-## Exercícios:
+## Descrição
+  Desafios utilizando selenium propostos na aula de mineração de dados.
+
+<div align="center"><h2>Exercícios</h2></div>
 
 ### 01-) Monte um script para acessar o curso de sistemas e para preencher o formulário.
   Resposta:
